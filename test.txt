@@ -1,4 +1,2 @@
-김기수
-Github Study
-2025/01/02 20:50
-Git Clone -> New Branch 생성 -> Commit
+test
+branch rulset test
